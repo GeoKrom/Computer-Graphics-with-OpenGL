@@ -1,0 +1,8 @@
+﻿  mymain.cpp
+E:\Computer Graphics and interactive systems\Projects\grafikaProj1_2020\mymain.cpp(25,9): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Computer Graphics and interactive systems\Projects\grafikaProj1_2020\mymain.cpp(26,9): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Computer Graphics and interactive systems\Projects\grafikaProj1_2020\mymain.cpp(27,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Computer Graphics and interactive systems\Projects\grafikaProj1_2020\mymain.cpp(62,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Computer Graphics and interactive systems\Projects\grafikaProj1_2020\mymain.cpp(62,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  grafikaProj1_2020.vcxproj -> E:\Computer Graphics and interactive systems\Projects\grafikaProj1_2020\Debug\grafikaProj1_2020.exe
